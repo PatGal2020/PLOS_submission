@@ -1,0 +1,16 @@
+ratgroup       range      percentage
+LT-IFN        morethan4   0.60
+LT-IFN        less4more3  9.10
+LT-IFN        less3more2  71
+LT-IFN        less2more1  19.3
+GFP           morethan4   0
+GFP           less4more3  4.8
+GFP           less3more2  48.50
+GFP           less2more1  46.7
+Control       morethan4   0
+Control       less4more3  0
+Control       less3more2  22.5    
+Control       less2more1  77.5  
+
+ 
+ 
